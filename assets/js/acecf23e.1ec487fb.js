@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkric_wiki=self.webpackChunkric_wiki||[]).push([[1903],{1912:i=>{i.exports=JSON.parse('{"blogBasePath":"/ric-wiki/blog","blogTitle":"Blog","authorsListPath":"/ric-wiki/blog/authors"}')}}]);
